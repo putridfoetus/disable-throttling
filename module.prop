@@ -1,0 +1,9 @@
+id=disable-throttle
+name=Disable N6 CPU Throttling
+version=v1
+versionCode=1
+author=putridfoetus
+description=Disable battery-based throttling on Nexus 6
+support=
+donate=
+cacheModule=false
