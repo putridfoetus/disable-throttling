@@ -1,2 +1,5 @@
+v2
+  - Update for Magisk v10.2
+
 v1
-    - Initial release
+  - Initial release
