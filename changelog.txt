@@ -1,3 +1,6 @@
+v3
+  - Update for Magisk v14+
+
 v2
   - Update for Magisk v10.2
 
